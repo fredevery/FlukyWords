@@ -1,0 +1,2 @@
+[01-Sep-2010 23:44:35] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'headoffr'@'localhost' (using password: YES) in /home/headoffr/public_html/flukywords/controllers/db/core.db.php on line 13
+[01-Sep-2010 23:44:35] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'headoffr'@'localhost' (using password: YES) in /home/headoffr/public_html/flukywords/controllers/db/core.db.php on line 13
