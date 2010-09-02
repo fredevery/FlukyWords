@@ -30,5 +30,6 @@
 		
 		<!-- Javascript -->
 		<script type="text/javascript" src="views/js/javaScript.php"></script>
+		<!-- Testing git -->
 	</body>
 </html>
